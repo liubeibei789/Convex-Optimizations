@@ -1,0 +1,5 @@
+Equalization is the reversal of distortion incurred by a signal transmitted through a channel. 
+MMSE(Minimum Mean Square Error) equalizer is one of the linear filters. It designs the filter to minimize E[jej2], 
+where e is the error signal, which is the filter output minus the transmitted signal.
+In this experiment, we are going to simulate transmission of the BPSK signals, 
+comparing the performances of MMSE equalizers of different lengths and under different channel models.
